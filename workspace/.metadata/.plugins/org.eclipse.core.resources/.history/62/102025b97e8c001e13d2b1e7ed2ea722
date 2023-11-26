@@ -1,0 +1,5 @@
+package com.quan.controller.web;
+
+public class HomeController {
+
+}

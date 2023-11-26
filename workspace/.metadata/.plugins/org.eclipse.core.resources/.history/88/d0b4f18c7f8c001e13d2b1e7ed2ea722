@@ -1,0 +1,10 @@
+package com.quan.controller.web;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet(urlPatterns = {"/home"})
+public class HomeController extends HttpServlet {
+	private static final long serialVersionUID = -7395492729802896364L;
+	
+}

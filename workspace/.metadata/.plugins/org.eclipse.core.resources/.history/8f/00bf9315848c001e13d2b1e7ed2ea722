@@ -1,0 +1,5 @@
+package com.quan.model;
+
+public class UserModel {
+
+}
