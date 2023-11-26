@@ -2,6 +2,12 @@
 JSP Servlet Tutorial
 
 Lesson 1: Create a JSP Servlet project
+
+Demo:
+![image](https://github.com/QuanTH02/JSP-Servlet-Tutorial/assets/104297617/cede79da-47e5-4cee-bddb-a24a5180dfd1)
+![image](https://github.com/QuanTH02/JSP-Servlet-Tutorial/assets/104297617/f827b7b6-f8c8-4dfe-b12f-0518a731f17c)
+
+Install and Setting:
 - Install java 8: https://drive.google.com/file/d/1Jj8TB39VNWCeHjx3sQC_T-rqY92la4mV/view
 + Create JAVA_HOME -> Add Path
 - Install Maven 3.6: https://drive.google.com/file/d/1Yh_tut8yETuMnwHIUHT6gruEpjBIDJ_-/view
